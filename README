@@ -11,4 +11,3 @@ Note: to run this project with HSQLDB (easiest way):
 To use a real DB: you need to define environment variables as discussed in build.xml
   For Oracle database, set up env variables ORACLE_USER, ORACLE_PW, ORACLE_SITE
   For MySQL use, set up env vars MYSQL_USER, MYSQL_PW, MYSQL_SITE
-See docs linked from the class web page for details.  
